@@ -1,13 +1,13 @@
 {
   "from": {
-    "file": "/tmp/sw-site-XecwEj/page/index.html",
-    "bytes": 26196966,
-    "sha256": "88dbdb484abd6cded1569922a356c35208512e4e70f584b3b9959d444cf45e87"
+    "file": "/tmp/sw-site-KCF0N3/page/index.html",
+    "bytes": 26198322,
+    "sha256": "34fcbc5b4824351526fdf16d9348a468b2daba1d66ea4dfa94b5540db1706ee9"
   },
   "page": {
     "path": "index.html",
-    "bytes": 1620000,
-    "sha256": "f2656580455124c2b874b21495b0fd8929839b09ccd5e77ad4c0131c00fe9c4e"
+    "bytes": 1621356,
+    "sha256": "0738fc823e31718366693feb4de659387c8505a58d22b776d2e4842ec0d2c778"
   },
   "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
   "kb": "/nfs/turbo/coe-kesuniot1/senseweaver/bench/moirelens-kit85-2026-11-22/inputs/kb.json",
