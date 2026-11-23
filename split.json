@@ -1,13 +1,13 @@
 {
   "from": {
-    "file": "/tmp/sw-site-e6mWas/page/index.html",
-    "bytes": 26150917,
-    "sha256": "b21e085afb5f109a6565c17e8c4dba866294a9e71f206ea5ffe38276589d242d"
+    "file": "/tmp/sw-site-XecwEj/page/index.html",
+    "bytes": 26196966,
+    "sha256": "88dbdb484abd6cded1569922a356c35208512e4e70f584b3b9959d444cf45e87"
   },
   "page": {
     "path": "index.html",
-    "bytes": 1576167,
-    "sha256": "1f00db215fcfb17a94426584eb053e6462bd6162fab6c6cc95961502f5d984e5"
+    "bytes": 1620000,
+    "sha256": "f2656580455124c2b874b21495b0fd8929839b09ccd5e77ad4c0131c00fe9c4e"
   },
   "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
   "kb": "/nfs/turbo/coe-kesuniot1/senseweaver/bench/moirelens-kit85-2026-11-22/inputs/kb.json",
@@ -165,8 +165,8 @@
       "type": "image/png",
       "kind": "media",
       "id": "fig-13",
-      "bytes": 43864,
-      "sha256": "1d27721b1a274d00aa1fbb6326c79a6af7fac89ea40c1331044a4eb7b875b15d"
+      "bytes": 45527,
+      "sha256": "b3ac79827c428bc649d70c08e5776508ceb8525e6eca85ce55773f355594476e"
     },
     {
       "path": "media/fig-14.png",
