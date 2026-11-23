@@ -1,0 +1,266 @@
+{
+  "from": {
+    "file": "/tmp/sw-site-e6mWas/page/index.html",
+    "bytes": 26150917,
+    "sha256": "b21e085afb5f109a6565c17e8c4dba866294a9e71f206ea5ffe38276589d242d"
+  },
+  "page": {
+    "path": "index.html",
+    "bytes": 1576167,
+    "sha256": "1f00db215fcfb17a94426584eb053e6462bd6162fab6c6cc95961502f5d984e5"
+  },
+  "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
+  "kb": "/nfs/turbo/coe-kesuniot1/senseweaver/bench/moirelens-kit85-2026-11-22/inputs/kb.json",
+  "files": [
+    {
+      "path": "library/SR-computer_monitor_office_a01.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "SR-computer_monitor_office_a01",
+      "glb": {
+        "bytes": 205684,
+        "sha256": "51e3868da7ccfef856ea45eab6e949f98b4650d167ae136bde487ca1d0f28516"
+      },
+      "library": "model.glb",
+      "bytes": 274248,
+      "sha256": "bb1f869fe064ba5525f5b29e72f2ce0f6a8f38e73420b553a3a2b38885190a9e"
+    },
+    {
+      "path": "library/C13.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "C13",
+      "glb": {
+        "bytes": 455708,
+        "sha256": "63ba645cfe24666ce190a198161b9a77f557c6e1fa991bf8befbb2f6924f28f0"
+      },
+      "library": "model.glb",
+      "bytes": 607612,
+      "sha256": "ace67e9ca490fe0a52489e7aa63a18f0ab745fe59c3970ce8625880e45f46d32"
+    },
+    {
+      "path": "library/SR-thermometer_fever_a01.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "SR-thermometer_fever_a01",
+      "glb": {
+        "bytes": 530692,
+        "sha256": "af69cc19e2e21ed0b031fdb3691ddc07a29975f9f7876c1569e48d5a824dae2a"
+      },
+      "library": "model.glb",
+      "bytes": 707592,
+      "sha256": "d007d6c492631a1bb432fe1466a62e0837eb531774f0dbf9a7a9be03d7525e5b"
+    },
+    {
+      "path": "library/OBJ-nikon_d6.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "OBJ-nikon_d6",
+      "glb": {
+        "bytes": 876564,
+        "sha256": "c5fb00b0ac7725452908d4a178c134d9b18420707fd6eef0d6ee32c33a1a572c"
+      },
+      "library": "model.glb",
+      "bytes": 1168752,
+      "sha256": "f032b854646239cf283cf423b4b3786e3f34700b76c9d75316e9385bd918a319"
+    },
+    {
+      "path": "media/fig-1.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-1",
+      "bytes": 73518,
+      "sha256": "568914044a5f79594b9f6fd335efcd28814c0970ea9e6a4e423bc92a15072d7e"
+    },
+    {
+      "path": "media/fig-2.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-2",
+      "bytes": 63601,
+      "sha256": "fb44d19ff063efd213f800bc24a5a91031731329ddd5d3c1962f1dfb4a71fd65"
+    },
+    {
+      "path": "media/fig-3.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-3",
+      "bytes": 158756,
+      "sha256": "a1cacddb4952a09fb2a4f47bb48672e2a2e6253fc3fac3d33c18b48752ec69a5"
+    },
+    {
+      "path": "media/fig-4.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-4",
+      "bytes": 113553,
+      "sha256": "4347b47c6fe24b99a473da7af36823c220840b57d7dd66708b51d51ba65516ad"
+    },
+    {
+      "path": "media/fig-5.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-5",
+      "bytes": 132582,
+      "sha256": "d43e536c6c070764fc3e064f4ba68c7a6975601661858c8c73c02897e797e40e"
+    },
+    {
+      "path": "media/fig-6.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-6",
+      "bytes": 119622,
+      "sha256": "0292b4006897bae6e6c7eec966df708ecc11bbd9fd6d2d6000397a9c32791383"
+    },
+    {
+      "path": "media/fig-7.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-7",
+      "bytes": 166490,
+      "sha256": "381dfd228408cbf0c59c6fd6942a75560a9ad35d0c38cf1be8c8bcfd82b9905f"
+    },
+    {
+      "path": "media/fig-8.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-8",
+      "bytes": 117913,
+      "sha256": "c1e29dc11ca8ab3641193752483084f97a6fffa1aaefe3a51ffdb9a0dc636c58"
+    },
+    {
+      "path": "media/fig-9.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-9",
+      "bytes": 78859,
+      "sha256": "f6a95de3d1d3dae74a1923cac620321e1f11186b0152d069a446344dac312a74"
+    },
+    {
+      "path": "media/fig-10.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-10",
+      "bytes": 78522,
+      "sha256": "e1380bef3ab7666657575ffc6942296a9447da1df2b7bf939b7cf255119678a1"
+    },
+    {
+      "path": "media/fig-11.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-11",
+      "bytes": 191713,
+      "sha256": "423e5e55e2ea7dcf04de69ebb41d57899d083e29af64e37ec417aef69c619c99"
+    },
+    {
+      "path": "media/fig-12.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-12",
+      "bytes": 137612,
+      "sha256": "386fcd5245585ba013bc0f4de8af51f8fd02c0fbff7905ceb97c4da33f5d4a53"
+    },
+    {
+      "path": "media/fig-13.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-13",
+      "bytes": 43864,
+      "sha256": "1d27721b1a274d00aa1fbb6326c79a6af7fac89ea40c1331044a4eb7b875b15d"
+    },
+    {
+      "path": "media/fig-14.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-14",
+      "bytes": 51084,
+      "sha256": "e4e102c14dce4e9cb4ec3e26c5f17d51c69082ff4646135d9ddb585f8e3e9271"
+    },
+    {
+      "path": "media/fig-15.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig-15",
+      "bytes": 47331,
+      "sha256": "e89c8a899c7398506a32d796709803d07f0f3668316a766ae5a7e0f1ba155473"
+    },
+    {
+      "path": "media/candle.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "candle",
+      "bytes": 2977052,
+      "sha256": "2ff05b13b4cf778b306befa5d125e82e6d0e65315ddc23d555bef1cca06a90e1"
+    },
+    {
+      "path": "media/leaks.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "leaks",
+      "bytes": 2410049,
+      "sha256": "b1563b36b805b294fb6d5a3f723a521fc0fc2ec1639d3dd18e5b0d40473bc14b"
+    },
+    {
+      "path": "media/robot.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "robot",
+      "bytes": 3063951,
+      "sha256": "26bdcb71593989e69b1d42684edbc6dba9e2ef133ade4d6e8bee6703c326d6e9"
+    },
+    {
+      "path": "media/scales.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "scales",
+      "bytes": 1669185,
+      "sha256": "f5542146104eb44b0239d330e0cf199a8dcbb6172718ca04b42a22b577f61029"
+    },
+    {
+      "path": "media/wallpaper.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "wallpaper",
+      "bytes": 2036806,
+      "sha256": "fc8569a06913ff0d9cf8fac814d98149c9cc747849bf152cd5c28b03eadd97dd"
+    },
+    {
+      "path": "media/printed.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "printed",
+      "bytes": 1958438,
+      "sha256": "9dfefe5f3bc6c7bf1474db6a04e18b04bf14f9f75d365b8c737f3312e6904d07"
+    },
+    {
+      "path": "kg/exp-kg.json",
+      "type": "application/json",
+      "kind": "kg",
+      "id": "exp-kg",
+      "kb": true,
+      "bytes": 896531,
+      "sha256": "205d95dad0e3d69a57c8aeaf778c17f66f0bab5aabd38a8c969bc9649a407fb3"
+    },
+    {
+      "path": "world/moir-lens-field.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 886379,
+      "sha256": "567c2d6a589626670fc593b2d3bac6837023543e318b7914a88821491f6612af"
+    },
+    {
+      "path": "world/moir-lens-line.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 3365811,
+      "sha256": "a494fdfc14b15ab7e5c9d2d5afa152c5b5d811fb2a5f6474d66bd45fdc972671"
+    },
+    {
+      "path": "about/assets.jpg",
+      "type": "image/jpeg",
+      "kind": "about",
+      "bytes": 255701,
+      "sha256": "a51c4183387e14b4b30743bf27ce09d141f5416df282c4171cdf4dd71a7e139f"
+    }
+  ]
+}
